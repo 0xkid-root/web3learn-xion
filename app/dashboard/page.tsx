@@ -150,7 +150,7 @@ export default function DashboardPage(): JSX.Element {
     <main className="min-h-screen bg-gradient-to-r from-blue-800 via-teal-700 to-green-500">
       <header className="bg-black bg-opacity-30 p-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-white">XION Learn Dashboard</h1>
+          <h1 className="text-2xl font-bold text-white">Web3Learn Learn Dashboard</h1>
           {address && (
             <div className="flex items-center space-x-4">
               <div className="flex items-center bg-white bg-opacity-10 rounded-lg px-4 py-2">

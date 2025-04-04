@@ -33,7 +33,8 @@ export default function LoginPage(): JSX.Element {
         )
       }
       <div className="w-full max-w-md rounded-lg bg-white bg-opacity-10 p-8 shadow-lg backdrop-blur-md">
-        <h1 className="mb-4 text-3xl font-bold text-center text-white">Unlock Your Future with LearnChain</h1>
+        <h1 className="mb-4 text-3xl font-bold text-center text-white">Unlock Your Future with web3learnXION Learn Dashboard
+        </h1>
         <p className="mb-6 text-center text-gray-200">
           Join a decentralized learning revolution! Empowering students with transparent, blockchain-backed funding for a smarter tomorrow.
         </p>
