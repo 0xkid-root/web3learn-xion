@@ -21,7 +21,7 @@ export default function LoginPage(): JSX.Element {
   }, [isConnected]); // Added isConnected as a dependency
 
   return (
-    <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-indigo-900 via-purple-700 to-pink-500 p-6 text-white">
+    <main className="min-h-screen flex flex-col items-center justify-center bg-gradient-to-r from-blue-800 via-teal-700 to-green-500 p-6 text-white">
       {
         bech32Address && (
           <div className="mb-4 border-2 border-primary rounded-md p-4 flex flex-row gap-4">
