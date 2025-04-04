@@ -147,7 +147,7 @@ export default function DashboardPage(): JSX.Element {
   }
 
   return (
-    <main className="min-h-screen bg-gradient-to-r from-blue-800 via-teal-700 to-green-500">
+    <main className="min-h-screen bg-gradient-to-r from-purple-800 via-violet-900 to-purple-800">
       <header className="bg-black bg-opacity-30 p-4">
         <div className="max-w-7xl mx-auto flex justify-between items-center">
           <h1 className="text-2xl font-bold text-white">Web3Learn Learn Dashboard</h1>
